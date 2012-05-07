@@ -1,0 +1,30 @@
+window.pages = {
+    home: {
+      title: "home",
+      class: "home",
+      summary: "here is a summary of the home page",
+      image: "https://secure.gravatar.com/avatar/eae796febaf16d9b4ecf41ef6246f301",
+      copy: "Praesent vel nibh ut massa dignissim sodales vel eget mi. Nullam mauris diam, bibendum vel placerat sed, vestibulum sit amet ante. Etiam orci sem, porta at convallis vitae, malesuada sed felis. Phasellus accumsan dui nec tortor tempor tempor. Sed vulputate massa pulvinar nulla blandit adipiscing. Proin nec ligula enim. Proin eu felis id tellus condimentum interdum. Phasellus id est mi, eget tincidunt nisi. Curabitur porttitor tortor sed risus semper elementum fermentum lectus elementum. Proin sed suscipit sem. Mauris nisi dui, commodo quis mattis et, tempus nec est. Suspendisse ipsum sem, ultricies rhoncus lobortis vel, imperdiet a mauris. Maecenas eu sem nunc, at aliquam augue."
+    },
+    about: {
+      title: "about",
+      class: "about",
+      summary: "here is a summary of the about page",
+      image: "http://www.w3schools.com/images/w3schoolslogo.gif",
+      copy: "Phasellus nec lacus ut ligula feugiat fermentum id vel nisi. Sed et varius justo. Pellentesque eu suscipit tortor. Donec mollis lacinia euismod. Etiam tempus pharetra dictum. Aenean odio magna, volutpat sit amet consectetur a, vestibulum sit amet sapien. Ut lacus enim, placerat non consectetur vel, blandit id orci. Nam facilisis ante nec dolor rutrum tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis venenatis, dolor et iaculis scelerisque, massa sem consectetur sapien, tristique sagittis tortor augue vel nisi. Nulla faucibus vehicula velit, nec rhoncus massa feugiat in."
+    },
+    help: {
+      title: "help",
+      class: "help",
+      summary: "here is a summary of the help page",
+      image: "http://www.propellerdigital.biz/parts/images/complete_bg.jpg",
+      copy: "Phasellus nec lacus ut ligula feugiat fermentum id vel nisi. Sed et varius justo. Pellentesque eu suscipit tortor. Donec mollis lacinia euismod. Etiam tempus pharetra dictum. Aenean odio magna, volutpat sit amet consectetur a, vestibulum sit amet sapien. Ut lacus enim, placerat non consectetur vel, blandit id orci. Nam facilisis ante nec dolor rutrum tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis venenatis, dolor et iaculis scelerisque, massa sem consectetur sapien, tristique sagittis tortor augue vel nisi. Nulla faucibus vehicula velit, nec rhoncus massa feugiat in."
+    },
+    snow: {
+      title: "Snow?",
+      class: "snow",
+      summary: "here is a summary of the snow page",
+      image: "http://wonderworlds.org/snow/snow-seamless-background.jpg",
+      copy: "Phasellus nec lacus ut ligula feugiat fermentum id vel nisi. Sed et varius justo. Pellentesque eu suscipit tortor. Donec mollis lacinia euismod. Etiam tempus pharetra dictum. Aenean odio magna, volutpat sit amet consectetur a, vestibulum sit amet sapien. Ut lacus enim, placerat non consectetur vel, blandit id orci. Nam facilisis ante nec dolor rutrum tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis venenatis, dolor et iaculis scelerisque, massa sem consectetur sapien, tristique sagittis tortor augue vel nisi. Nulla faucibus vehicula velit, nec rhoncus massa feugiat in."
+    }
+  };
