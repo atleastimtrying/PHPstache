@@ -1,0 +1,158 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+html{
+  color:black;
+  font-family:sans-serif;
+  font-size:16px;
+}
+
+body{
+  width:900px;
+  margin:20px auto;
+  padding:20px;
+  border-radius:4px;
+  position:relative;
+  border:2px solid #ccc;
+  -moz-box-shadow:    3px 3px 10px gray;
+  -webkit-box-shadow: 3px 3px 10px gray;
+  box-shadow:         3px 3px 10px gray;
+}
+
+h2{
+  font-size:40px;
+  margin-bottom:20px;
+}
+
+a{
+  text-decoration:none;
+  color:inherit;
+}
+
+li{
+  list-style:none;
+}
+
+.header{
+  text-align:center;
+}
+.header img{
+  margin-bottom:20px;
+  width:690px;
+}
+.navigation{
+  text-align:center;
+  margin-bottom:40px;
+}
+
+.navigation li{
+  display:inline-block;
+}
+
+.navigation li a{
+  padding:8px 40px;
+  background:white;
+  font-size:24px;
+}
+
+.content{
+  width:640px;
+  margin:20px auto;
+}
+
+.description{
+  font-style:italic;
+  font-family:georgia;
+  color:#888;
+  margin-bottom:24px;
+}
+.latest{
+  border: 1px solid #ccc;
+  padding:20px;
+}
+.post{
+  margin-bottom:24px;
+  padding-bottom:24px;
+  border-bottom:1px dashed #ccc;
+}
+
+.post h3{
+  margin-bottom:10px;
+  
+}
+
+.post p{
+}
+
+.choice{
+  padding:10px;
+  border:1px solid #888;
+  display:inline-block;
+  margin:13px;
+
+}
+
+.choice img{
+  width:270px;
+  height:270px;
+  background:#ccc;
+}
+
+.choice h2{
+  font-size:35px;
+  color:black;
+  text-decoration:none;
+}
+
+.product{
+  padding:10px;
+  display:inline-block;
+}
+
+.product img{
+  background:#ccc;
+  width:190px;
+  height:190px;
+}
+
+img.profile{
+  float:left;
+  margin:0 10px 10px 0;
+  width:150px;
+  height:200px;
+  background:orange;
+}
+
+.last{
+  border-bottom:none;
+  margin-bottom:0;
+}
+
+.contact-form li{
+  margin-bottom:20px;
+}
+
+.contact-form li label{
+  width:120px;
+  display:inline-block;
+}
+
+.contact-form li input,
+.contact-form li textarea,
+{
+  margin-left:20px;
+  width:300px;
+  padding:10px;
+}
+
+.faqs li{
+  padding:10px;
+  border: 1px dashed #ccc;
+  margin-bottom:24px;
+}
+
+.faqs li h3{
+  margin-bottom:14px;
+}

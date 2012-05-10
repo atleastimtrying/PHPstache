@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <title>Demo For Kingsland Linassi</title>
+  <title>Mustache demo</title>
   <meta name="author" content="Anders Fisher">
-  <link rel="stylesheet" href="/public/css/style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
@@ -19,18 +19,20 @@
       <section>{{copy}}</section>
     </article>
   </script>
+  <a href='index.php#home' id='access'>Home</a>
   <nav>
     <ol>
       <li><a href='home'>home</a></li>
       <li><a href='about'>about</a></li>
       <li><a href='help'>help</a></li>
+      <li><a href='snow'>snow</a></li>
     </ol>
   </nav>
   <div id='pageDisplay'></div>
-  <script src="/public/json/pages.json"></script>
-  <script src="/public/js/libs/jquery-1.5.min.js"></script>
-  <script src="/public/js/libs/mustache.js"></script>
-  <script src="/public/js/application.js"></script>
+  <script src="json/pages.js"></script>
+  <script src="js/libs/jquery-1.5.min.js"></script>
+  <script src="js/libs/mustache.js"></script>
+  <script src="js/edit.js"></script>
 	
 </body>
 </html>
