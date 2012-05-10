@@ -1,8 +1,6 @@
-twitter quilter
-=======
+PHPstache
+=========
 
-A simple sinatra app that uses the twitter api to get your followers then some coffeescript stitches all their profile pictures together in a canvas element.
-
-Hullo!
+a small example of a 1 page site using mustache json and coffeescript to populate a page
 
 ^__^
